@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 #ES_HOST="localhost"
 #ES_PORT="9200"
